@@ -29,13 +29,14 @@ El proyecto fue desarrollado utilizando: Python 3.12.2
 ## Instalación
 
 1.  Clona el repositorio:
-```bash
-
+```sh
+ git clone https://github.com/ShiraiJPG/Variables-y-Condicionales.git
 ```
 
 2. Crea y activa el entorno virtual:
-```bash
-
+```sh
+python -m venv Variables
+Variables\Scripts\activate
 ```
 
 3. Instala las dependencias:
